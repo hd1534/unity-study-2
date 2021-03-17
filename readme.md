@@ -4,6 +4,8 @@
 
 유니티를 연습하기 위해서 만든 공굴리기 게임 입니다.
 
+![screenshot](./readmeImg/play.png)
+
 ---
 
 # 목차
